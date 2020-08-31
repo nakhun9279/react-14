@@ -5,4 +5,4 @@ const App = () => {
   return <NewsList />;
 };
  
-export default App;
+export default App;//
