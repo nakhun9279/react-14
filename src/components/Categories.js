@@ -86,4 +86,4 @@ const Categories = ({ onSelect }) => {
   );
 };
 
-export default Categories;
+export default Categories;//수정
